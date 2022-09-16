@@ -1,5 +1,38 @@
 # Cell Culture Basics
 
+1. [Cell Culture Basics](#cell-culture-basics)
+   1. [Cell Lines](#cell-lines)
+   2. [Adherent Cell Culture vs. Suspension Cell Culture](#adherent-cell-culture-vs-suspension-cell-culture)
+      1. [Characteristics of Each Culture Type](#characteristics-of-each-culture-type)
+         1. [Adherent Cell Culture](#adherent-cell-culture)
+         2. [Suspension Cell Culture](#suspension-cell-culture)
+   3. [Cell Culture Environment](#cell-culture-environment)
+      1. [pH levels](#ph-levels)
+      2. [CO2 levels](#co2-levels)
+      3. [Temperature](#temperature)
+   4. [Cell Morphology](#cell-morphology)
+   5. [Cell Culture Troubleshooting](#cell-culture-troubleshooting)
+      1. [Problem: No Viable Cells After Thawing Stock](#problem-no-viable-cells-after-thawing-stock)
+         1. [Cells were stored incorrectly](#cells-were-stored-incorrectly)
+         2. [Home made freezer stock is not viable](#home-made-freezer-stock-is-not-viable)
+         3. [Cells were thawed incorrectly](#cells-were-thawed-incorrectly)
+         4. [Thawing medium is not correct](#thawing-medium-is-not-correct)
+         5. [Cells are too dilute](#cells-are-too-dilute)
+         6. [Cells not handled gently](#cells-not-handled-gently)
+         7. [Glycerol used in the freezing medium was stored in light (if applicable)](#glycerol-used-in-the-freezing-medium-was-stored-in-light-if-applicable)
+      2. [Problem: Cells Grow Slowly](#problem-cells-grow-slowly)
+         1. [Growth medium is not correct](#growth-medium-is-not-correct)
+         2. [Serum in the growth medium is of poor quality](#serum-in-the-growth-medium-is-of-poor-quality)
+         3. [Cells have been passaged too many times](#cells-have-been-passaged-too-many-times)
+         4. [Cells were allowed to grow beyond confluency](#cells-were-allowed-to-grow-beyond-confluency)
+         5. [Culture is contaminated with mycoplasma](#culture-is-contaminated-with-mycoplasma)
+      3. [Other Problems](#other-problems)
+         1. [Rapid pH shift in medium](#rapid-ph-shift-in-medium)
+         2. [Precipitate in medium, no change in pH](#precipitate-in-medium-no-change-in-ph)
+         3. [Precipitate in medium, change in pH](#precipitate-in-medium-change-in-ph)
+         4. [Cells not adhering to culture vessel](#cells-not-adhering-to-culture-vessel)
+         5. [Decreased growth of culture](#decreased-growth-of-culture)
+
 ## Cell Lines
 
 Selecting the appropriate cell line
